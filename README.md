@@ -181,23 +181,23 @@ Everyday morning 7.30 am there will be aarthi for Lord Ayyappan. So 7.15 am Ayya
 
 ## OUTPUT
 
+![mapnew](https://github.com/vidhyadharan-03/NearMe/assets/114286357/676c7417-a7bd-474c-a22e-9f36f196e96b)
 
-![output](./screenshots/mapnew.png)
+![bus_stand](https://github.com/vidhyadharan-03/NearMe/assets/114286357/74aab81d-e54a-47c8-b6b6-d43daf52ae2c)
 
-![output](./screenshots/bus stand.png)
+![rto](https://github.com/vidhyadharan-03/NearMe/assets/114286357/b7985969-c3b5-4613-878a-e374156eb184)
 
-![output](./screenshots/ESIC HOS.png)
+![sivan](https://github.com/vidhyadharan-03/NearMe/assets/114286357/9cd7e7dc-83cb-4f36-b5ee-74fdeef50763)
 
-![output](./screenshots/Iyappan temple.png)
+![temple](https://github.com/vidhyadharan-03/NearMe/assets/114286357/ccb5027f-9de7-41b0-b41b-7871dc87bc7d)
 
-![output](./screenshots/rto office.png)
-
-![output](./screenshots/sivan park.png)
+![esic](https://github.com/vidhyadharan-03/NearMe/assets/114286357/430c5367-1a32-48fe-b2c2-a09ba75b5f60)
 
 
 ## HTML VALIDATOR
 
-![HTML Validator](./validator.png)
+![validator](https://github.com/vidhyadharan-03/NearMe/assets/114286357/892ae908-462b-435f-b20a-b46fac6aa352)
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
